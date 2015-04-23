@@ -1,4 +1,4 @@
-# Fancy Goods
+# Fancy_Goods
 “You’re always so full of ideas. Give me an idea for a Christmas present, not one of the ordinary things you find in the usual shops.”
 
 How was I to set about it? Well, first of all I had to get an idea of what my lady friend meant by ordinary things. I did a tour of the gift shops that sell fancy goods, just to see what they had in stock.
